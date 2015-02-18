@@ -1,4 +1,4 @@
-{
+     {
 	"auto_indent": true,
 	"auto_match_enabled": true,
 	"bold_folder_labels": true,
